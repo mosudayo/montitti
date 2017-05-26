@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "montiti.data.unityweb",
+"wasmCodeUrl": "montiti.wasm.code.unityweb",
+"wasmFrameworkUrl": "montiti.wasm.framework.unityweb",
+"asmCodeUrl": "montiti.asm.code.unityweb",
+"asmMemoryUrl": "montiti.asm.memory.unityweb",
+"asmFrameworkUrl": "montiti.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
